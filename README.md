@@ -9,3 +9,8 @@ pip install -r requirements
 
 
 # how to run
+
+source crede
+export FLASK_APP=app
+flask run
+
